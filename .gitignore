@@ -1,0 +1,16 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.bak
+
+# Android Gradle and Build output
+.gradle/
+build/
+android/build/
+android/app/build/
+*.iml
+.idea/
+local.properties
+
+# Logs
+*.log
